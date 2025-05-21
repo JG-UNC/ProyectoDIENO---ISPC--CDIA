@@ -53,7 +53,7 @@ Ambos componentes son funcionales, sin lógica de estado.
 - Muestra todos si está vacío.
 - Case-insensitive.
 
-- 
+  
 (```js
 const filteredProducts = searchText
   ? products.filter(p =>
