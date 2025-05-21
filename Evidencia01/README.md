@@ -1,5 +1,10 @@
 # Proyecto - Evidencia 01 : React + Vite + Tailwind CSS + Axios
 
+## Requisitos previos
+Antes de ejecutar el proyecto, debes asegurarte de tener instaladas las siguientes herramientas en tu PC:
+
+Node.js (version 14 o superior)
+npm (viene con Node.js)
 ---
 
 ## 📌 Descripción
