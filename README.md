@@ -1,4 +1,4 @@
-# Proyecto - Evidencia 01 y 02: React + Vite + Tailwind CSS + Axios
+# Proyecto - Evidencia 01 : React + Vite + Tailwind CSS + Axios
 
 ---
 
