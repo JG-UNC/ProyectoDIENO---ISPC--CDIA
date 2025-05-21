@@ -71,3 +71,5 @@ const filteredProducts = searchText
 - Diseño responsive y animaciones suaves.
 
 ---
+
+![{7F7662CA-E8D0-46A0-A2AF-EDB328E92BE5}](https://github.com/user-attachments/assets/66bc452f-fa88-4c14-af01-1467be7a79e4)
