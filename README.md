@@ -3,7 +3,7 @@
 ---
 
 ## 📚 Materia: Práctica Profesional  
-**Carrera:** Tecnicatura en Desarrollo de Software  
+**Carrera:** Tecnicatura en Ciencias de datos e IA
 **Año:** 2025  
 **Estudiante:** Guillén Jonathan  
 **Institución:** ISPC (Instituto Superior Politécnico Córdoba)
