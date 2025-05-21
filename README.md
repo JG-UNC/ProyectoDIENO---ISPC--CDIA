@@ -2,7 +2,7 @@
 
 ---
 
-## Materia: Práctica Profesional  
+## Materia: Proyecto Integrador 
 **Carrera:** Tecnicatura en Ciencias de datos e IA
 **Año:** 2025  
 **Estudiante:** Guillén Jonathan  
