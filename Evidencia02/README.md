@@ -53,16 +53,16 @@ Ambos componentes son funcionales, sin lógica de estado.
 - Muestra todos si está vacío.
 - Case-insensitive.
 
-```js
+- 
+(```js
 const filteredProducts = searchText
   ? products.filter(p =>
       p.title.toLowerCase().includes(searchText.toLowerCase()))
   : products;
 
----
+---)
 
-
-### 4.Estilos con Tailwind
+  ### 4.Estilos con Tailwind
 
 - Tarjetas: bg-gray-100, shadow, rounded, hover:scale-105.
 
@@ -72,4 +72,7 @@ const filteredProducts = searchText
 
 ---
 
-![{7F7662CA-E8D0-46A0-A2AF-EDB328E92BE5}](https://github.com/user-attachments/assets/66bc452f-fa88-4c14-af01-1467be7a79e4)
+![{50C5DA17-267E-44D6-AE16-BFE0E85AA221}](https://github.com/user-attachments/assets/fe46a45a-9171-4a5a-9e7e-4a645bac1fd6)
+
+
+
