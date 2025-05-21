@@ -1,21 +1,45 @@
-# Proyecto - Evidencia 01: React + Vite + Tailwind + Axios
+# Proyecto - Evidencia 01 y 02: React + Vite + Tailwind CSS + Axios
+
+---
 
 ## 📌 Descripción
 
-Este proyecto demuestra el uso de un entorno moderno de desarrollo en React utilizando Vite como empaquetador, Tailwind CSS para estilos y Axios para consumo de APIs.
+Este proyecto implementa una aplicación en React utilizando Vite como entorno de desarrollo moderno, Tailwind CSS para el diseño visual y Axios para obtener datos desde una API externa.
+
+Incluye funcionalidades avanzadas como búsqueda dinámica, estadísticas automáticas calculadas en tiempo real, uso de componentes reutilizables, y estilo visual profesional.
+
+---
+
+## 🧾 Evidencia 01 – ISPC
+
+- Configuración de entorno con Vite + React.
+- Instalación y aplicación de Tailwind CSS.
+- Uso de Axios para conectar con la API `https://dummyjson.com/products`.
+- Renderizado dinámico de productos.
+- Estilos básicos con clases de Tailwind.
+- Filtro dinámico de búsqueda.
+- Cálculo y visualización de estadísticas:
+  - Producto más caro y más barato.
+  - Títulos con más de 20 caracteres.
+  - Precio total.
+  - Promedio de descuento.
+- Separación del código en componentes reutilizables (`ProductList` y `StatsPanel`).
+- Validación de búsqueda vacía.
+- Estilos visuales con `Tailwind CSS`.
+- Indicador visual de que Tailwind está funcionando.
+- Identificación del trabajo como Evidencia 2 - ISPC.
 
 ---
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1. Descargar o clonar el proyecto.
-2. Abrir la terminal en la carpeta del proyecto.
-3. Ejecutar los siguientes comandos:
+1. Clonar o descargar este repositorio.
+2. Abrir una terminal en la carpeta del proyecto.
+3. Ejecutar:
+      npm install
+      npm run dev
 
-npm install  
-npm run dev
 
----
 
 ## 🔍 Funcionalidades
 
@@ -42,4 +66,6 @@ npm run dev
 
 ## 📸 Captura de pantalla
 
-*(Adjuntar imagen del proyecto funcionando con productos y estadísticas visibles)*
+![{F77BCDAE-CC3A-4F3F-98C1-9E332C9CB670}](https://github.com/user-attachments/assets/89c8976b-e764-431d-a8ff-9017e3725b63)
+![{8608C9A3-D7E6-4590-8E0B-FD89CA1EE0B5}](https://github.com/user-attachments/assets/ffc9eec8-cb2f-4453-88ca-2dbdff9e8fe9)
+
