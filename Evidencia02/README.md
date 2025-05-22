@@ -72,7 +72,8 @@ const filteredProducts = searchText
 
 ---
 
-![{50C5DA17-267E-44D6-AE16-BFE0E85AA221}](https://github.com/user-attachments/assets/fe46a45a-9171-4a5a-9e7e-4a645bac1fd6)
+![{A29EDC66-5AF8-44E4-BE90-93BA101455C5}](https://github.com/user-attachments/assets/0c46d1e8-adc7-458b-b9c5-b42adbce4c73)
+
 
 
 
