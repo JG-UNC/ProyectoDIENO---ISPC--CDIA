@@ -74,13 +74,16 @@ Ambos componentes son funcionales, sin lógica de estado.
 - Muestra todos si está vacío.
 - Case-insensitive.
 
-( ```js
+ ```js
 const filteredProducts = searchText
   ? products.filter(p =>
       p.title.toLowerCase().includes(searchText.toLowerCase()))
   : products;
-)
+ ```
 ---
+ 
+### 5.Captura de aplicación
+
 ![{75252D44-A0B9-468C-8EDC-7820EEB1DBF7}](https://github.com/user-attachments/assets/9b0d2fdd-c1c4-43bf-b73f-762a9cb81929)
 
 
