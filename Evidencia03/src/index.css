@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@tailwind screens;
+
+
+/* Este archivo es el punto de entrada de los estilos. 
+   Se conecta con `main.jsx`, donde se importa para que React lo aplique a toda la app.
+   Tailwind genera todos los estilos en tiempo de desarrollo a partir de este archivo.
+*/
