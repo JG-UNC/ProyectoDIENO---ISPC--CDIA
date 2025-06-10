@@ -1,0 +1,14 @@
+//
+- agregar comentarios al codigo(proposito y conexion entre componentes)
+-descripción del flujo 
+-modo claro y oscuro
+-npm install --save chart.js react-chartjs-2// graficos
+-sistema de paginación o carga peresoza?
+-Aclarar bien el readme
+-mensajes emergentes de confirmación (alertas) para las acciones de exportación a CSV y JSON
+    (exportar en txt?¡? opcional)
+
+
+
+
+
